@@ -1,0 +1,1 @@
+2017-04-25 12:27:42 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/system/library/session/native.php:29) in /home/ubuntu/workspace/system/library/response.php on line 12
